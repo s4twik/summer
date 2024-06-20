@@ -40,4 +40,22 @@ DONE!!
 
 **CHECK RESEARCH AND SEARCH AGAIN**
 
+`opens the picture`
+shows CRC error, opens it in 010 hexeditor (recco'ed by yogesh so gonna try it)
+
+corrects it to ![image](https://github.com/s4twik/summer/assets/147993943/9f411acc-2b72-4f0e-8ec6-9bcbe1db51ce)
+
+tries to open it!!! still an error!!
+
+![image](https://github.com/s4twik/summer/assets/147993943/d60fb55f-ea7d-4071-8457-6caefe9ac324)
+
+interlace method (a foe i have met before, but forgot cuz i don't document anything (something that'll be the end of my cybersec career))
+
+![image](https://github.com/s4twik/summer/assets/147993943/8aff7b3d-f004-4308-b2ef-7647ce531411)
+
+ after few hits and misses (i had changed the ihdr data and had to download the original file to work with it again)
+
+i got the image
+
+![image](https://github.com/s4twik/summer/assets/147993943/7115c97f-f059-4a6f-aa32-0ef4baf66b54)
 
